@@ -11,6 +11,13 @@ This is a Restaurant web site user can order the food user can see its previous 
     <li>See Previous Order</li>
 </ul>
 
-<H1>Prerequisites</H1>
+<H2>Prerequisites</H2>
 <hr>
+<ul>
+    <li>NodeJs</li>
+    <li>ReactJs</li>
+    <li>MongoDB</li>
+    <li>ExpressJs</li>
+    <li>Bootstrap</li>
+</ul>
 
