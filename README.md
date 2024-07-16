@@ -24,5 +24,5 @@ This is a Restaurant web site user can order the food user can see its previous 
 <H2>Screenshots<H2>
 <hr>
 <h3>Sign In</h3>
-![Sign In](./screenshots/signin.png)
+<img src="./screenshots/signin.png" alt="Sign In">
 
