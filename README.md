@@ -25,4 +25,14 @@ This is a Restaurant web site user can order the food user can see its previous 
 <hr>
 <h3>Sign In</h3>
 <img src="./screenshots/signin.png" alt="Sign In">
+<h3>Login</h3>
+<img src="./screenshots/logIn.png" alt="Log In">
+<h3>Food Items</h3>
+<img src="./screenshots/foodItems1.png" alt="Food Items1">
+<img src="./screenshots/foodItems2.png" alt="Food Items2">
+<h3>Cart</h3>
+<img src="./screenshots/cart.png" alt="Cart">
+<h3>Previous Order</h3>
+<img src="./screenshots/previousOrder.png" alt="Previous Order">
+
 
