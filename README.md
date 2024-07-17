@@ -1,5 +1,5 @@
 # Go-Food-Mern
-This is a Restaurant web site user can order the food user can see its previous list of that is ordered.
+This is a Restaurant web site user can order the food user can see its previous list of that was ordered.
 
 <ul>
     <li>Sign In</li>
@@ -23,8 +23,8 @@ This is a Restaurant web site user can order the food user can see its previous 
 
 <H2>Screenshots<H2>
 <hr>
-<h3>Sign In</h3>
-<img src="./screenshots/signin.png" alt="Sign In">
+<h3>Sign up</h3>
+<img src="./screenshots/signin.png" alt="Sign un">
 <h3>Login</h3>
 <img src="./screenshots/logIn.png" alt="Log In">
 <h3>Food Items</h3>
